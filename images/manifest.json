@@ -90,6 +90,1383 @@
             ]
         },
         {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0011/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0011"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0011/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0011/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0011/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0011",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0011/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0002/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0002"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0002/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0002/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0002/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0002",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0002/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0008/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0008"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0008/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0008/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0008/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0008",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0008/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0006/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0006"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0006/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0006/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0006/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0006",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0006/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0013/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0013"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0013/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0013/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0013/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0013",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0013/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0015/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0015"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0015/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0015/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0015/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0015",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0015/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0019/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0019"
+                ]
+            },
+            "height": 4123,
+            "width": 3485,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0019/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0019/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0019/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 109,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 218,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 436,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 872,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1743,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3485,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3485,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0019",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0019/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0003/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0003"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0003/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0003/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0003/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0003",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0003/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0009/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0009"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0009/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0009/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0009/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0009",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0009/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0007/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0007"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0007/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0007/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0007/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0007",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0007/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0018/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0018"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0018/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0018/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0018/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0018",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0018/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0004/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0004"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0004/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0004/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0004",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0004/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0012/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0012"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0012/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0012/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0012/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0012",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0012/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0017/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0017"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0017/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0017/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0017/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0017",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0017/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0005/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0005"
+                ]
+            },
+            "height": 4123,
+            "width": 3190,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0005/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0005/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0005/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 798,
+                                                "height": 1031
+                                            },
+                                            {
+                                                "width": 1595,
+                                                "height": 2062
+                                            },
+                                            {
+                                                "width": 3190,
+                                                "height": 4123
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3190,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0005",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4123,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0005/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0014/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0014"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0014/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0014/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0014/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0014",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0014/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0010/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0010"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0010/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0010/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0010/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0010",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0010/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0001/canvas/",
             "type": "Canvas",
             "label": {
@@ -165,6 +1542,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0016/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18a-000997-0016"
+                ]
+            },
+            "height": 4128,
+            "width": 3186,
+            "items": [
+                {
+                    "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0016/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0016/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0016/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 258
+                                            },
+                                            {
+                                                "width": 399,
+                                                "height": 516
+                                            },
+                                            {
+                                                "width": 797,
+                                                "height": 1032
+                                            },
+                                            {
+                                                "width": 1593,
+                                                "height": 2064
+                                            },
+                                            {
+                                                "width": 3186,
+                                                "height": 4128
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3186,
+                                        "@id": "https://niklas-dig.github.io/testniklas/images/18a-000997-0016",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4128,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://niklas-dig.github.io/testniklas/images/18a-000997-0016/canvas/"
                         }
                     ]
                 }
