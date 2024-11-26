@@ -695,7 +695,7 @@
       "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
       "type" : "Range",
       "label" : {
-        "en" : [ "Hvad bitter var i svåra dar [...]" ]
+        "en" : [ "Hvad bittert var i svåra dar [...]" ]
       },
       "items" : [ {
         "id" : "http://4db17604-3a56-4fc9-b1bf-194e8604ebcd",
