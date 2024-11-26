@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://niklas-dig.github.io/testniklas/manifests/manifest4.json",
     "label" : "Till erinran : dikt : med illustr."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://niklas-dig.github.io/testniklas/manifests/manifest5.json",
+    "label" : "Till erinran : dikt : med illustr."
   } ]
 }
