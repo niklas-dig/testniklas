@@ -1,730 +1,1533 @@
 {
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://niklas-dig.github.io/testniklas/manifests/manifest4.json",
-  "@type" : "sc:Manifest",
-  "label" : "Till erinran : dikt : med illustr.",
-  "metadata" : [ ],
-  "description" : [ {
-    "@value" : "Viktor Otto Moll avled d. 22 november 1941. Han var född i Stockholm 1852, avlade mogenhetsex. där 1873 och hovrättsex. i Uppsala 1879. Han blev vice häradshövding 1883. Han tjänstgjorde därefter vid Stockholms rådhusrätt och blev assistent i förmyndarkammaren 1891. Han har av trycket utgivit ett flertal dikter och diktsamlingar, och han erhöll 1889 efter tävlan Svenska akademiens mindre pris.",
-    "@language" : "sv"
-  } ],
-  "license" : "https://creativecommons.org/publicdomain/mark/1.0/",
-  "attribution" : "Digitized and provided by Umeå University Library, Sweden",
-  "sequences" : [ {
-    "@id" : "http://74783483-fcb8-4625-bfea-7c3789868f10",
-    "@type" : "sc:Sequence",
-    "label" : [ {
-      "@value" : "Normal Sequence",
-      "@language" : "en"
-    } ],
-    "canvases" : [ {
-      "@id" : "http://28362432-8c7a-4206-bfbf-0b77f37739bb",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0000",
-      "height" : 4124,
-      "width" : 3448,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://f0eb73cd-b64c-46e2-8eba-ce3ecae5650a",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0000/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0000",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4124,
-          "width" : 3448
-        },
-        "on" : "http://28362432-8c7a-4206-bfbf-0b77f37739bb"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0001",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://41c26718-d7a9-4d29-b6fa-381a94c7119c",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0001/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0001",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://65c42bfa-368e-4018-8f4a-c3efb1333c16",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0002",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://98978eda-f659-4403-a7ea-0c2304866a98",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0002/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0002",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://65c42bfa-368e-4018-8f4a-c3efb1333c16"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://883888c9-7875-47f5-8ab0-369123b1b0dd",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0003",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://996f1f40-5a87-4021-aaa3-78e64d828099",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0003/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0003",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://883888c9-7875-47f5-8ab0-369123b1b0dd"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://0f9f1232-d7b1-4947-9749-bde89123532a",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0004",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://062f3c17-be2a-4abe-8c20-629de7143cbb",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0004/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0004",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://0f9f1232-d7b1-4947-9749-bde89123532a"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://fa6534c1-ad42-441e-8da9-b769ceae375d",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0005",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://6a0bd9df-80a0-4757-aad6-dec5171b618f",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0005/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0005",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://fa6534c1-ad42-441e-8da9-b769ceae375d"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://0bda71bc-d1fa-4440-9b75-010c83121c2a",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0006",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://36d75e4e-7e39-434a-a0e5-9464c59ebfe3",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0006/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0006",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://0bda71bc-d1fa-4440-9b75-010c83121c2a"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://8e81f31a-aadc-4682-a5b8-c80d480f0dc5",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0007",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://4caf6da7-eecd-4def-a8e5-adbf7f9d24f2",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0007/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0007",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://8e81f31a-aadc-4682-a5b8-c80d480f0dc5"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://c3ade4ae-53a9-4aec-8a1c-fbde642b97d9",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0008",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://d67d14b8-24f1-455c-9af0-a36481607977",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0008/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0008",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://c3ade4ae-53a9-4aec-8a1c-fbde642b97d9"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://87d3f81b-3911-4b45-8c4d-ab895faab0e6",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0009",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://073eaf14-688d-4c9c-acbe-eea316469d0f",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0009/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0009",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://87d3f81b-3911-4b45-8c4d-ab895faab0e6"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://9124bb73-8156-45d3-8035-90da0c1753b6",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0010",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://dbc084e6-816f-43ab-bb78-718d26331f6e",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0010/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0010",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://9124bb73-8156-45d3-8035-90da0c1753b6"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://4db17604-3a56-4fc9-b1bf-194e8604ebcd",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0011",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://9c544e75-4d84-44ae-a61d-88dbd0f70356",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0011/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0011",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://4db17604-3a56-4fc9-b1bf-194e8604ebcd"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://ac33409d-ce5c-478e-baf4-ac38100e6a92",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0012",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://4234b280-0de7-4ff3-8b28-dd6fa4413b4d",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0012/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0012",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://ac33409d-ce5c-478e-baf4-ac38100e6a92"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://af9ec7b9-4744-4acf-b514-36757650fb09",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0013",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://5c5fac6f-1b1d-4deb-83f9-f32674e92d7c",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0013/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0013",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://af9ec7b9-4744-4acf-b514-36757650fb09"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://9d5e687a-3599-4ab5-94af-bce6d0e70ff5",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0014",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://200baa1d-dcad-42a9-affd-aaf4f0168e90",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0014/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0014",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://9d5e687a-3599-4ab5-94af-bce6d0e70ff5"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://1c8fbe42-c8ca-4385-9549-90600feacde5",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0015",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://74816f7c-3e06-4c77-b8fb-dbfbb6f618e7",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0015/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0015",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://1c8fbe42-c8ca-4385-9549-90600feacde5"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://ca222f18-e04d-484a-9452-b4e731a832b5",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0016",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://37f9b08e-967b-4d77-b066-9f2215944a1b",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0016/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0016",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://ca222f18-e04d-484a-9452-b4e731a832b5"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://26516f83-e77c-404b-b6a2-82f9bff13844",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0017",
-      "height" : 4123,
-      "width" : 3190,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://4b3e58e4-87d9-46d1-8888-baa6ba47c7a8",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0017/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0017",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3190
-        },
-        "on" : "http://26516f83-e77c-404b-b6a2-82f9bff13844"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://793d0fa5-6c72-4afc-b61d-6d51d1960bf9",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0018",
-      "height" : 4128,
-      "width" : 3186,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://24494f3f-7b3a-4813-80dc-5c138870a727",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0018/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0018",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4128,
-          "width" : 3186
-        },
-        "on" : "http://793d0fa5-6c72-4afc-b61d-6d51d1960bf9"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://72f23469-bca4-471c-ba9c-6f966d89800d",
-      "@type" : "sc:Canvas",
-      "label" : "18a-000997-0019",
-      "height" : 4123,
-      "width" : 3485,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://6f83db79-ef0f-438d-8c21-b3b0d49b5d96",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0019/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0019",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "tif", "gif", "png" ],
-              "qualities" : [ "color", "gray", "bitonal", "default" ],
-              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
-            } ]
-          },
-          "height" : 4123,
-          "width" : 3485
-        },
-        "on" : "http://72f23469-bca4-471c-ba9c-6f966d89800d"
-      } ],
-      "related" : ""
-    } ]
-  } ],
-  "structures" : [ {
-    "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r0",
-    "type" : "Range",
-    "label" : {
-      "en" : [ "Table of Contents" ]
-    },
-    "items" : [ {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "[Front cover]" ]
-      },
-      "items" : [ {
-        "id" : "http://28362432-8c7a-4206-bfbf-0b77f37739bb",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Om våren arla rann hon upp mot söderglöd [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://65c42bfa-368e-4018-8f4a-c3efb1333c16",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Helt nyss jag döden älskade och tyckte [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://883888c9-7875-47f5-8ab0-369123b1b0dd",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Tornspirans flöjel snurrar med hast [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://fa6534c1-ad42-441e-8da9-b769ceae375d",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Nu slår bjölöfven ut, nu går sav upp i stam [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://8e81f31a-aadc-4682-a5b8-c80d480f0dc5",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Då stilla mot slutet förklaradt hon såg mot lifvet [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://87d3f81b-3911-4b45-8c4d-ab895faab0e6",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Hvad bitter var i svåra dar [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://4db17604-3a56-4fc9-b1bf-194e8604ebcd",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Och sol skall uppgå klar engång [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://af9ec7b9-4744-4acf-b514-36757650fb09",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "Min ande, lossa dina band en stund [...]" ]
-      },
-      "items" : [ {
-        "id" : "http://1c8fbe42-c8ca-4385-9549-90600feacde5",
-        "type" : "Canvas"
-      } ]
-    }, {
-      "id" : "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
-      "type" : "Range",
-      "label" : {
-        "en" : [ "[Back cover]" ]
-      },
-      "items" : [ {
-        "id" : "http://72f23469-bca4-471c-ba9c-6f966d89800d",
-        "type" : "Canvas"
-      } ]
-    } ]
-  } ]
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://80290770-2a60-4fbc-befc-6849b97695ef",
+@type: "sc:Manifest",
+label: "Till erinran : dikt : med illustr.",
+metadata: [ ],
+creator: "Moll, Viktor, 1852-1941",
+description: [
+{
+@value: "Viktor Otto Moll avled d. 22 november 1941. Han var född i Stockholm 1852, avlade mogenhetsex. där 1873 och hovrättsex. i Uppsala 1879. Han blev vice häradshövding 1883. Han tjänstgjorde därefter vid Stockholms rådhusrätt och blev assistent i förmyndarkammaren 1891. Han har av trycket utgivit ett flertal dikter och diktsamlingar, och han erhöll 1889 efter tävlan Svenska akademiens mindre pris.",
+@language: "sv"
+}
+],
+license: "https://creativecommons.org/publicdomain/mark/1.0/",
+attribution: "Digitized and provided by Umeå University Library, Sweden",
+sequences: [
+{
+@id: "http://74783483-fcb8-4625-bfea-7c3789868f10",
+@type: "sc:Sequence",
+label: [
+{
+@value: "Normal Sequence",
+@language: "en"
+}
+],
+canvases: [
+{
+@id: "http://28362432-8c7a-4206-bfbf-0b77f37739bb",
+@type: "sc:Canvas",
+label: "18a-000997-0000",
+height: 4124,
+width: 3448,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://f0eb73cd-b64c-46e2-8eba-ce3ecae5650a",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0000/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0000",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4124,
+width: 3448
+},
+on: "http://28362432-8c7a-4206-bfbf-0b77f37739bb"
+}
+],
+related: ""
+},
+{
+@id: "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213",
+@type: "sc:Canvas",
+label: "18a-000997-0001",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://41c26718-d7a9-4d29-b6fa-381a94c7119c",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0001/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0001",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213"
+}
+],
+related: ""
+},
+{
+@id: "http://65c42bfa-368e-4018-8f4a-c3efb1333c16",
+@type: "sc:Canvas",
+label: "18a-000997-0002",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://98978eda-f659-4403-a7ea-0c2304866a98",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0002/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0002",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://65c42bfa-368e-4018-8f4a-c3efb1333c16"
+}
+],
+related: ""
+},
+{
+@id: "http://883888c9-7875-47f5-8ab0-369123b1b0dd",
+@type: "sc:Canvas",
+label: "18a-000997-0003",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://996f1f40-5a87-4021-aaa3-78e64d828099",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0003/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0003",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://883888c9-7875-47f5-8ab0-369123b1b0dd"
+}
+],
+related: ""
+},
+{
+@id: "http://0f9f1232-d7b1-4947-9749-bde89123532a",
+@type: "sc:Canvas",
+label: "18a-000997-0004",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://062f3c17-be2a-4abe-8c20-629de7143cbb",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0004/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0004",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://0f9f1232-d7b1-4947-9749-bde89123532a"
+}
+],
+related: ""
+},
+{
+@id: "http://fa6534c1-ad42-441e-8da9-b769ceae375d",
+@type: "sc:Canvas",
+label: "18a-000997-0005",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://6a0bd9df-80a0-4757-aad6-dec5171b618f",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0005/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0005",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://fa6534c1-ad42-441e-8da9-b769ceae375d"
+}
+],
+related: ""
+},
+{
+@id: "http://0bda71bc-d1fa-4440-9b75-010c83121c2a",
+@type: "sc:Canvas",
+label: "18a-000997-0006",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://36d75e4e-7e39-434a-a0e5-9464c59ebfe3",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0006/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0006",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://0bda71bc-d1fa-4440-9b75-010c83121c2a"
+}
+],
+related: ""
+},
+{
+@id: "http://8e81f31a-aadc-4682-a5b8-c80d480f0dc5",
+@type: "sc:Canvas",
+label: "18a-000997-0007",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://4caf6da7-eecd-4def-a8e5-adbf7f9d24f2",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0007/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0007",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://8e81f31a-aadc-4682-a5b8-c80d480f0dc5"
+}
+],
+related: ""
+},
+{
+@id: "http://c3ade4ae-53a9-4aec-8a1c-fbde642b97d9",
+@type: "sc:Canvas",
+label: "18a-000997-0008",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://d67d14b8-24f1-455c-9af0-a36481607977",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0008/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0008",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://c3ade4ae-53a9-4aec-8a1c-fbde642b97d9"
+}
+],
+related: ""
+},
+{
+@id: "http://87d3f81b-3911-4b45-8c4d-ab895faab0e6",
+@type: "sc:Canvas",
+label: "18a-000997-0009",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://073eaf14-688d-4c9c-acbe-eea316469d0f",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0009/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0009",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://87d3f81b-3911-4b45-8c4d-ab895faab0e6"
+}
+],
+related: ""
+},
+{
+@id: "http://9124bb73-8156-45d3-8035-90da0c1753b6",
+@type: "sc:Canvas",
+label: "18a-000997-0010",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://dbc084e6-816f-43ab-bb78-718d26331f6e",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0010/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0010",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://9124bb73-8156-45d3-8035-90da0c1753b6"
+}
+],
+related: ""
+},
+{
+@id: "http://4db17604-3a56-4fc9-b1bf-194e8604ebcd",
+@type: "sc:Canvas",
+label: "18a-000997-0011",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://9c544e75-4d84-44ae-a61d-88dbd0f70356",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0011/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0011",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://4db17604-3a56-4fc9-b1bf-194e8604ebcd"
+}
+],
+related: ""
+},
+{
+@id: "http://ac33409d-ce5c-478e-baf4-ac38100e6a92",
+@type: "sc:Canvas",
+label: "18a-000997-0012",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://4234b280-0de7-4ff3-8b28-dd6fa4413b4d",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0012/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0012",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://ac33409d-ce5c-478e-baf4-ac38100e6a92"
+}
+],
+related: ""
+},
+{
+@id: "http://af9ec7b9-4744-4acf-b514-36757650fb09",
+@type: "sc:Canvas",
+label: "18a-000997-0013",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://5c5fac6f-1b1d-4deb-83f9-f32674e92d7c",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0013/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0013",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://af9ec7b9-4744-4acf-b514-36757650fb09"
+}
+],
+related: ""
+},
+{
+@id: "http://9d5e687a-3599-4ab5-94af-bce6d0e70ff5",
+@type: "sc:Canvas",
+label: "18a-000997-0014",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://200baa1d-dcad-42a9-affd-aaf4f0168e90",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0014/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0014",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://9d5e687a-3599-4ab5-94af-bce6d0e70ff5"
+}
+],
+related: ""
+},
+{
+@id: "http://1c8fbe42-c8ca-4385-9549-90600feacde5",
+@type: "sc:Canvas",
+label: "18a-000997-0015",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://74816f7c-3e06-4c77-b8fb-dbfbb6f618e7",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0015/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: " https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0015",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://1c8fbe42-c8ca-4385-9549-90600feacde5"
+}
+],
+related: ""
+},
+{
+@id: "http://ca222f18-e04d-484a-9452-b4e731a832b5",
+@type: "sc:Canvas",
+label: "18a-000997-0016",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://37f9b08e-967b-4d77-b066-9f2215944a1b",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0016/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0016",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://ca222f18-e04d-484a-9452-b4e731a832b5"
+}
+],
+related: ""
+},
+{
+@id: "http://26516f83-e77c-404b-b6a2-82f9bff13844",
+@type: "sc:Canvas",
+label: "18a-000997-0017",
+height: 4123,
+width: 3190,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://4b3e58e4-87d9-46d1-8888-baa6ba47c7a8",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0017/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0017",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3190
+},
+on: "http://26516f83-e77c-404b-b6a2-82f9bff13844"
+}
+],
+related: ""
+},
+{
+@id: "http://793d0fa5-6c72-4afc-b61d-6d51d1960bf9",
+@type: "sc:Canvas",
+label: "18a-000997-0018",
+height: 4128,
+width: 3186,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://24494f3f-7b3a-4813-80dc-5c138870a727",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0018/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0018",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4128,
+width: 3186
+},
+on: "http://793d0fa5-6c72-4afc-b61d-6d51d1960bf9"
+}
+],
+related: ""
+},
+{
+@id: "http://72f23469-bca4-471c-ba9c-6f966d89800d",
+@type: "sc:Canvas",
+label: "18a-000997-0019",
+height: 4123,
+width: 3485,
+images: [
+{
+@context: "http://iiif.io/api/presentation/2/context.json",
+@id: "http://6f83db79-ef0f-438d-8c21-b3b0d49b5d96",
+@type: "oa:Annotation",
+motivation: "sc:painting",
+resource: {
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0019/full/full/0/default.jpg",
+@type: "dctypes:Image",
+format: "image/jpeg",
+service: {
+@context: "http://iiif.io/api/image/2/context.json",
+@id: "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniklas-dig%2Ftestniklas%2F18a-000997-0019",
+profile: [
+"http://iiif.io/api/image/2/level2.json",
+{
+formats: [
+"jpg",
+"tif",
+"gif",
+"png"
+],
+qualities: [
+"color",
+"gray",
+"bitonal",
+"default"
+],
+supports: [
+"regionByPx",
+"sizeByW",
+"sizeByWhListed",
+"cors",
+"regionSquare",
+"sizeByDistortedWh",
+"sizeAboveFull",
+"canonicalLinkHeader",
+"sizeByConfinedWh",
+"sizeByPct",
+"jsonldMediaType",
+"regionByPct",
+"rotationArbitrary",
+"sizeByH",
+"baseUriRedirect",
+"rotationBy90s",
+"profileLinkHeader",
+"sizeByForcedWh",
+"sizeByWh",
+"mirroring"
+]
+}
+]
+},
+height: 4123,
+width: 3485
+},
+on: "http://72f23469-bca4-471c-ba9c-6f966d89800d"
+}
+],
+related: ""
+}
+]
+}
+],
+structures: [
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r0",
+type: "Range",
+label: {
+en: [
+"Table of Contents"
+]
+},
+items: [
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"[Front cover]"
+]
+},
+items: [
+{
+id: "http://28362432-8c7a-4206-bfbf-0b77f37739bb",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Om våren arla rann hon upp mot söderglöd [...]"
+]
+},
+items: [
+{
+id: "http://65c42bfa-368e-4018-8f4a-c3efb1333c16",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Helt nyss jag döden älskade och tyckte [...]"
+]
+},
+items: [
+{
+id: "http://883888c9-7875-47f5-8ab0-369123b1b0dd",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Tornspirans flöjel snurrar med hast [...]"
+]
+},
+items: [
+{
+id: "http://fa6534c1-ad42-441e-8da9-b769ceae375d",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Nu slår bjölöfven ut, nu går sav upp i stam [...]"
+]
+},
+items: [
+{
+id: "http://8e81f31a-aadc-4682-a5b8-c80d480f0dc5",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Då stilla mot slutet förklaradt hon såg mot lifvet [...]"
+]
+},
+items: [
+{
+id: "http://87d3f81b-3911-4b45-8c4d-ab895faab0e6",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Hvad bitter var i svåra dar [...]"
+]
+},
+items: [
+{
+id: "http://4db17604-3a56-4fc9-b1bf-194e8604ebcd",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Och sol skall uppgå klar engång [...]"
+]
+},
+items: [
+{
+id: "http://af9ec7b9-4744-4acf-b514-36757650fb09",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"Min ande, lossa dina band en stund [...]"
+]
+},
+items: [
+{
+id: "http://1c8fbe42-c8ca-4385-9549-90600feacde5",
+type: "Canvas"
+}
+]
+},
+{
+id: "http://80290770-2a60-4fbc-befc-6849b97695ef/range/r1",
+type: "Range",
+label: {
+en: [
+"[Back cover]"
+]
+},
+items: [
+{
+id: "http://72f23469-bca4-471c-ba9c-6f966d89800d",
+type: "Canvas"
+}
+]
+}
+]
+}
+]
 }
