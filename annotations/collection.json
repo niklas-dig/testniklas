@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://niklas-dig.github.io/testniklas/annotations/c3e3c794e40d4739c2ebb2a68eb08988.json" ],
+  "@id" : "https://niklas-dig.github.io/testniklas/annotations/collection.json",
+  "label" : "All annotations loaded in niklas-dig/testniklas project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
