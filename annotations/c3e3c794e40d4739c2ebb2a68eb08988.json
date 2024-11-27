@@ -1,0 +1,125 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "signature",
+      "@type" : "oa:Tag",
+      "chars" : "signature"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "date of purchase",
+      "@type" : "oa:Tag",
+      "chars" : "date of purchase"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Olof &Ouml;stergrens signature and date of purchase.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Olof &Ouml;stergrens signature and date of purchase.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189625401",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T15:35:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721737623",
+    "dcterms:modified" : "2024-11-27T15:35:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://niklas-dig.github.io/testniklas/manifests/manifest5.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2286,286,904,448"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2286.03989,285.78775h451.98006v0h451.98006v224.18234v224.18234h-451.98006h-451.98006v-224.18234z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b3f17355-25cc-439d-a36c-acb984cf664a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The book plate of Olof &Ouml;stergren",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The book plate of Olof &Ouml;stergren</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "exlibris",
+      "@type" : "oa:Tag",
+      "chars" : "exlibris"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189625401",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-11-27T15:26:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721179229",
+    "dcterms:modified" : "2024-11-27T15:34:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://niklas-dig.github.io/testniklas/manifests/manifest5.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1082,1132,1241,1600"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1082.02991,1131.53134h620.62464v0h620.62464v799.75783v799.75783h-620.62464h-620.62464v-799.75783z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_319923a3-7e47-4edd-88ac-afb120f4d262\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.23932\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Notation regarding from whom Olof &Ouml;stergren bought the book and what he payed for it.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Notation regarding from whom Olof &Ouml;stergren bought the book and what he payed for it.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "seller",
+      "@type" : "oa:Tag",
+      "chars" : "seller"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cost",
+      "@type" : "oa:Tag",
+      "chars" : "cost"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189625401",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-11-27T15:34:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721645712",
+    "dcterms:modified" : "2024-11-27T15:42:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://niklas-dig.github.io/testniklas/manifests/manifest5.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=225,251,619,278"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M224.53989,250.54843h309.34402v0h309.34402v139.02066v139.02066h-309.34402h-309.34402v-139.02066z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6c201ad2-c8b9-47b0-9a31-5e48d03bdcc5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"35.23932\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213"
+    } ]
+  } ],
+  "@id" : "https://niklas-dig.github.io/testniklas/annotations/c3e3c794e40d4739c2ebb2a68eb08988.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
