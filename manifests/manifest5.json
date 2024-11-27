@@ -3,6 +3,11 @@
   "@id" : "https://niklas-dig.github.io/testniklas/manifests/manifest5.json",
   "@type" : "sc:Manifest",
   "label" : "Till erinran : dikt : med illustr.",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/189625401/45a05673ad8c2134bd6cb5beb41f00ac/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Title",
     "value" : "Till erinran : dikt : med illustr."
@@ -81,6 +86,11 @@
           "width" : 3190
         },
         "on" : "http://6df6cab0-a06e-4b55-9eaa-d2fa8f6df213"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://niklas-dig.github.io/testniklas/annotations/c3e3c794e40d4739c2ebb2a68eb08988.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
